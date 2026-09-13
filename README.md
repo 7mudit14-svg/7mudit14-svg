@@ -84,8 +84,13 @@ mudit@lnmiit:~$ whoami --verbose
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=7mudit14-svg&show_icons=true&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&icon_color=ffa657&border_color=30363d&border_radius=6" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mudit14-svg&layout=compact&bg_color=161b22&title_color=ffa657&text_color=c9d1d9&border_color=30363d&border_radius=6" width="48%" />
+<!-- Dual Telemetry: Self-Hosted Andrew6rant Card (Left) + Live Streak Telemetry (Right) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-stats-light.svg" />
+  <img src="./github-stats.svg" alt="Mudit Todi - GitHub Telemetry" width="49%" />
+</picture>
+<img src="https://streak-stats.demolab.com/?user=7mudit14-svg&background=161b22&border=30363d&stroke=30363d&ring=ffa657&fire=ffa657&currStreakLabel=a5d6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=616e7f" width="49%" alt="GitHub Streak Stats" />
 
 <br/>
 

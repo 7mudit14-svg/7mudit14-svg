@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" font-family="'JetBrains Mono', Consolas, -apple-system, BlinkMacSystemFont, monospace">
+  <rect width="495" height="195" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5" />
+  <text x="24" y="32" font-size="14" font-weight="700" fill="#059669">&#x2699; Mudit Todi &#8212; GitHub Telemetry</text>
+  <line x1="24" y1="44" x2="471" y2="44" stroke="#d0d7de" stroke-width="1" />
+  <text x="24" y="68" font-size="11" fill="#57606a">. Public Repos  : <tspan fill="#0969da" font-weight="600">5 Repositories</tspan></text>
+  <text x="24" y="90" font-size="11" fill="#57606a">. Active Domain : <tspan fill="#059669" font-weight="600">Robotics &amp; Controls</tspan></text>
+  <text x="24" y="112" font-size="11" fill="#57606a">. Status        : <tspan fill="#1a7f37" font-weight="600">ONLINE // 1 kHz</tspan></text>
+  <text x="24" y="142" font-size="11" font-weight="700" fill="#059669">Top Core Stack Proportions:</text>
+  <g clip-path="url(#bar-clip)">
+    <clipPath id="bar-clip"><rect x="24" y="152" width="447" height="8" rx="4" /></clipPath>
+    <rect x="24" y="152" width="205" height="8" fill="#f34b7d" />
+    <rect x="229" y="152" width="151" height="8" fill="#3572A5" />
+    <rect x="380" y="152" width="53" height="8" fill="#555555" />
+    <rect x="433" y="152" width="38" height="8" fill="#1a7f37" />
+  </g>
+  <circle cx="24" cy="172" r="4" fill="#f34b7d" />
+  <text x="32" y="176" font-size="10" fill="#1f2328">C++ <tspan fill="#57606a">46%</tspan></text>
+  <circle cx="130" cy="172" r="4" fill="#3572A5" />
+  <text x="138" y="176" font-size="10" fill="#1f2328">Python <tspan fill="#57606a">34%</tspan></text>
+  <circle cx="245" cy="172" r="4" fill="#555555" />
+  <text x="253" y="176" font-size="10" fill="#1f2328">Embedded C <tspan fill="#57606a">12%</tspan></text>
+  <circle cx="370" cy="172" r="4" fill="#1a7f37" />
+  <text x="378" y="176" font-size="10" fill="#1f2328">MATLAB/ROS <tspan fill="#57606a">8%</tspan></text>
+</svg>
