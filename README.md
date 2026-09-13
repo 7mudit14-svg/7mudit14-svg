@@ -75,8 +75,6 @@ mudit@lnmiit:~$ whoami --verbose
 | 🦾 **[`4dof_robotic_arm_mrac_controller_ROS2`](https://github.com/7mudit14-svg/4dof_robotic_arm_mrac_controller_ROS2)** | Robust Direct MRAC controller for 4-DOF manipulator without computing complex dynamics. Online gain adaptation + 6-term basis canceling Coriolis/friction. | `ROS 2 Jazzy` `C++ (1 kHz)` `MoveIt 2` `Gazebo` |
 | 🕹️ **[`Cartpole_IMC_MRAC`](https://github.com/7mudit14-svg/Cartpole_IMC_MRAC)** | MuJoCo simulation & benchmarking suite: Cascaded IMC-PID vs. Direct MRAC vs. Robust MRAC. Demonstrates **-43.7% ISE reduction** under velocity impulses. | `Python` `MuJoCo 3.x` `Lagrangian Mechanics` |
 | 🛰️ **[`IMC-2025`](https://github.com/7mudit14-svg/IMC-2025)** | GPS-Denied Surveillance UAV demonstrated at **India Mobile Congress 2025**. RF-jamming immune directional optical/IR link (52 kbps @ 20 ft) + YOLOv8 edge detection. | `Python` `ArduPilot` `Raspberry Pi 5` `Optical Flow` |
-| 📷 **[`esp32-cam-object-measurement`](https://github.com/7mudit14-svg/esp32-cam-object-measurement)** | Real-time onboard millimeter dimension measurement using ESP32-CAM. Adaptive camera calibration, PCA oriented bounding boxes, and blob detection. | `Arduino C++` `ESP32-CAM` `Edge Vision` |
-| 🌐 **[`7mudit14-svg.github.io`](https://7mudit14-svg.github.io/)** | Personal interactive portfolio with real-time 3D Three.js manipulator kinematics & live browser-based Cartpole Runge-Kutta simulator. | `HTML5` `Three.js` `Anime.js` |
 
 ---
 
